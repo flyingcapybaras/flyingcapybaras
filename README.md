@@ -6,6 +6,7 @@
 <?php
 
 $name = 'Riley';
+$pronouns = 'He/Him';
 $title = 'Web Developer';
 $location = 'New York, USA';
 
