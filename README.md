@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/flyingcapybaras/flyingcapybaras/raw/main/mybanner.png" width="512" height="248" />
+  <img src="https://github.com/flyingcapybaras/flyingcapybaras/raw/main/mybanner.png" width="512" height="255" />
 </p>
 
 ```php
