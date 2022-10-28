@@ -13,6 +13,7 @@ $location = 'New York, USA';
 $currentproject = 'Project Ruby';
 $site = 'https://rubies.lol';
 $discordlink = 'https://discord.gg/ah9nVVtrD5';
+$github = 'https://github.com/Project-Ruby';
 $donate = 'https://patreon.com/rubies';
 
 $discord = 'rileyy#0002'
