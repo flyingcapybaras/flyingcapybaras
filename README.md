@@ -11,8 +11,7 @@ $title = 'Web Developer';
 $location = 'New York, USA';
 
 $discord = 'rileyy#0002';
-$twitter = 'flyingcapybaras';
-$psn = 'flyingcapybaras';
+$twitter = '';
 
 ?>
 ```
